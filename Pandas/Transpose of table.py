@@ -8,6 +8,8 @@ Student = ['Omprakash', 'Vinayak', 'Kapil', 'Rishabh', 'Dhananjay', 'Vidit', 'Su
 Subjects = ['Physics', 'Chemistry', 'Computer Science', 'Maths', 'Bio']
 
 result = pd.DataFrame(marks, Student, Subjects)
+
 print(result)
-print()
-print(result.info())
+
+print("\n\n\n")
+print(result.transpose())
