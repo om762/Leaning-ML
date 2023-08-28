@@ -1,3 +1,5 @@
+#Write a program to remove a row and column form a DataFrame using pandas
+
 import pandas as pd
 
 table = (pd.read_csv("Student-info.csv")).head(10)

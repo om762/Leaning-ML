@@ -1,3 +1,4 @@
+# Write a program to get data of row which are in a slice. That is use slicing to get the data of rows
 import pandas as pd
 
 table = (pd.read_csv("Student-info.csv"))

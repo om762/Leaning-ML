@@ -1,3 +1,4 @@
+# Write a program set and reset the index of a DataFrame
 import pandas as pd
 
 table = (pd.read_csv("Student-info.csv")).head(10)
