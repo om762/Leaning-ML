@@ -1,0 +1,13 @@
+Company,Account Number,Contact,Account Manager,Product,Licenses,Sale Price,Status
+ Google,6370194,Larry PagerLarry PagerLarry Pager,Edward ThorpEdward ThorpEdward Thorp,AnalyticsPredictionTracking,600,3150000,PresentedPresentedUnder Review
+ATT,1396064,Cindy PhonerCindy Phoner,Claude ShannonClaude Shannon,TrackingPrediction,300,1050000,Under ReviewPresented
+Apple,405886,Cindy Phoner,Claude Shannon,Analytics,300,4550000,Won
+BOBO,2192650,Larry Pager,Edward Thorp,Analytics,150,2450000,Lost
+CVS Health,902797,Emma Gordian,Claude Shannon,Tracking,450,490000,Won
+Cisco,4338998,Emma GordianEmma Gordian,Claude ShannonClaude Shannon,AnalyticsGPS Positioning,600,4900000,LostPresented
+Exxon Mobile,470248,Cindy Phoner,Claude Shannon,Analytics,150,2100000,Presented
+IKEA,420496,Elon Tusk,Edward Thorp,Analytics,300,4550000,Won
+Microsoft,1216870,Will Grates,Edward Thorp,Tracking,300,350000,Under Review
+Salesforce,2046943,Emma Gordian,Claude Shannon,Analytics,750,7000000,Won
+Tesla Inc.,1273370,Elon TuskElon Tusk,Edward ThorpEdward Thorp,AnalyticsPrediction,450,3500000,Under ReviewPresented
+Walmart,2200450,Will Grates,Edward Thorp,Analytics,150,2450000,Lost
